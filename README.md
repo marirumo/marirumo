@@ -2,13 +2,13 @@
 
 <h3 align="center">A passionate UX/UI Designer</h3>
 
-- 🌱 I’m currently learning **Web development and this is my final project of the Coderhouse course.** 
+- 🌱 I’m currently learning **React** 
 
 - 👨‍💻 All of my projects are available at [https://marirumo.com/](https://marirumo.com/)
 
 - 💬 Ask me about **UX and UI**
 
-- 📫 How to reach me **info@marirumo.com**
+- 📫 How to reach me **hello@marirumo.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
