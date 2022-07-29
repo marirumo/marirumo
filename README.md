@@ -1,4 +1,4 @@
-<h1 align="center"># Hi!I'm Mariana <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Nice to Meet You
+<h1 align="center"># Hi! I'm Mariana <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Nice to Meet You
 
 <h3 align="center">A passionate UX/UI Designer</h3>
 
